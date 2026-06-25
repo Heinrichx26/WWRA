@@ -1,0 +1,6 @@
+variable,definition
+weather_intensity,"Route-level score built from low visibility hours, low ceiling hours, precipitation hours, high wind hours, maximum wind speed, minimum visibility, and minimum ceiling."
+workload_percentile,Origin-airport daily departure volume percentile within the same airport's observed distribution.
+reliability_loss,Primary measure is arrival-delay 15+ rate; cancellation rate and mean arrival delay are secondary measures.
+excess_delay_burden,Positive delayed-arrival burden above the normal-workload baseline within the same weather-intensity bin.
+redundancy_collapse_window,Weather-intensity and workload-percentile region where reliability loss increases sharply.
