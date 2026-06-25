@@ -1,0 +1,9 @@
+item,value
+label,full_2024_2025
+months,24
+route_days,976224
+flights,6733035
+origin_airports,43
+routes,1467
+origin_weather_match_share,0.9973059461762874
+destination_weather_match_share,0.9973059461762874
