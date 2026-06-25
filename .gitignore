@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Raw and processed data are intentionally excluded.
+data/external/
+data/processed/
+
+# Generated non-table outputs are excluded. Curated CSV result tables are kept.
+results/*
+!results/tables/
+!results/tables/**
+
+# Manuscripts and submission files are outside the public code repository.
+article/
+submission/
+*.pdf
+*.docx
+*.tex
+*.zip
