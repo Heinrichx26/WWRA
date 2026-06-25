@@ -1,0 +1,13 @@
+item,value
+experiment_label,full_2024_2025
+months,24
+route_days,976224
+flights,6733035
+origin_airports,43
+destination_airports,43
+routes,1467
+origin_weather_match_share,0.9973059461762874
+destination_weather_match_share,0.9973059461762874
+weather_constrained_route_days,696743
+joint_pressure_route_days,177565
+high_workload_observation_share,0.2651409922312912
