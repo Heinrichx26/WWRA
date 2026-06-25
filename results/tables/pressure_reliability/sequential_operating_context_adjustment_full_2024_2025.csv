@@ -1,0 +1,13 @@
+control_set,weather_intensity_bin,adjusted_gap_high_minus_normal,route_days,arrivals
+Airport-calendar-weather,W1 mild,0.031743363092442224,173901,1156940
+Airport-calendar-weather,W2 moderate,0.030877479797055362,173861,1150011
+Airport-calendar-weather,W3 severe,0.030256422870871345,173725,1173220
+Airport-calendar-weather,W4 extreme,0.03224142606567008,172825,1200123
+Traffic-carrier added,W1 mild,0.028825172641616995,173901,1156940
+Traffic-carrier added,W2 moderate,0.027858302607866307,173861,1150011
+Traffic-carrier added,W3 severe,0.027362855603720586,173725,1173220
+Traffic-carrier added,W4 extreme,0.02852759337073448,172825,1200123
+Full operating context,W1 mild,0.02826955380023976,173901,1156940
+Full operating context,W2 moderate,0.027168716573075204,173861,1150011
+Full operating context,W3 severe,0.026696006562165274,173725,1173220
+Full operating context,W4 extreme,0.02791343816800085,172825,1200123
